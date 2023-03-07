@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: payment_inititation_api
+  title: Payment Initiation
+  description: Confirmation of Funds.
+  tags:
+    - java
+spec:
+  type: openapi
+  lifecycle: production
+  owner: payments-team
+  definition:
+    $text: ./payment-initiation-spec.json
