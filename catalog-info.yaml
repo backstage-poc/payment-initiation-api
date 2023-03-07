@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: payment_inititation_api
   title: Payment Initiation
-  description: Confirmation of Funds.
+  description: Initiation of Payments.
   tags:
     - java
 spec:
