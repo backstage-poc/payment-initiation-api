@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: payment_inititation_api
+  name: payment_initiation_api
   title: Payment Initiation
   description: Initiation of Payments.
   tags:
