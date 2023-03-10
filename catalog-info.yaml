@@ -9,6 +9,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
+  system: Payments
   owner: payments-team
   definition:
     $text: ./payment-initiation-spec.json
