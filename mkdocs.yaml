@@ -1,0 +1,7 @@
+site_name: 'Payment Initiation API'
+docs_dir: .
+nav:
+  - Home: README.md
+plugins:
+  - same-dir
+  - techdocs-core
